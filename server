@@ -1,0 +1,22 @@
+
+[deploy]
+checkout = git clone 'git@github.com:toyproblem/deploy' 'deploy'
+
+[ad-feedback-control]
+checkout = git clone 'git@github.com:toyproblem/ad-feedback-control' 'ad-feedback-control'
+
+[discrete-state-space]
+checkout = git clone 'git@github.com:toyproblem/discrete-state-space' 'discrete-state-space'
+
+[fft-psd-check]
+checkout = git clone 'git@github.com:toyproblem/fft-psd-check' 'fft-psd-check'
+
+[phone-noise-figure]
+checkout = git clone 'git@github.com:toyproblem/phone-noise-figure' 'phone-noise-figure'
+
+[round-quant-dither]
+checkout = git clone 'git@github.com:toyproblem/round-quant-dither' 'round-quant-dither'
+
+[template]
+checkout = git clone 'git@github.com:toyproblem/template' 'template'
+
