@@ -2,6 +2,9 @@
 [deploy]
 checkout = git clone 'git@github.com:toyproblem/deploy' 'deploy'
 
+[toyproblem.github.io]
+checkout = git clone 'git@github.com:toyproblem/toyproblem.github.io' 'toyproblem.github.io'
+
 [ad-feedback-control]
 checkout = git clone 'git@github.com:toyproblem/ad-feedback-control' 'ad-feedback-control'
 
